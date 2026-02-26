@@ -17,10 +17,10 @@ A tutorial project demonstrating how to integrate [Creem](https://creem.io) with
    ```
 
 2. **Configure Environment**
-   Copy `.env.example` to `.env.local` and fill in your credentials:
+   Copy `.example.env` to `.env.local` and fill in your credentials:
 
    ```bash
-   cp .env.example .env.local
+   cp .example.env .env.local
    ```
 
 3. **Run Development Server**
